@@ -147,5 +147,3 @@ For issues, questions, or contributions, please:
 2. Create a new issue with detailed information
 3. Join our community discussion forum
 
-## License
-[Your License Type] - See LICENSE file for details
